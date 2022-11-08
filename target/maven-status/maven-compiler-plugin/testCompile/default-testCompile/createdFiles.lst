@@ -1,0 +1,11 @@
+starter\pages\CartPage.class
+starter\stepdefinitions\RegisterStep.class
+starter\stepdefinitions\LoginStep.class
+starter\pages\LogoutPage.class
+starter\stepdefinitions\CartStep.class
+starter\pages\BeliPage.class
+CucumberTestSuite.class
+starter\pages\LoginPage.class
+starter\pages\RegisterPage.class
+starter\stepdefinitions\BeliStep.class
+starter\stepdefinitions\LogoutStep.class
